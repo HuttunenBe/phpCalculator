@@ -4,7 +4,7 @@ A basic calculator made with PHP. The calculator takes two numbers and an operat
 
 🛠️ Tech Stack
 - PHP
-- HTML
+- HTML 
 - CSS
 
 ---
