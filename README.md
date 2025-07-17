@@ -6,3 +6,10 @@ A basic calculator made with PHP. The calculator takes two numbers and an operat
 - PHP
 - HTML
 - CSS
+
+<p align="center">
+  <img src="phpCalculatorVideo.gif" alt="PHP Calculator Demo" width="800" />
+</p>
+
+
+
