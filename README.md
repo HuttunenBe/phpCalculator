@@ -13,7 +13,6 @@ A basic calculator made with PHP. The calculator takes two numbers and an operat
 
   <img 
     src="gifPhpCalculator.gif" 
-     style="width: 80%;" 
   />
 
 Watch Full Demo on YouTube <a href="https://youtu.be/xv25Mg1D82U"> Here!
