@@ -7,9 +7,15 @@ A basic calculator made with PHP. The calculator takes two numbers and an operat
 - HTML
 - CSS
 
-<p align="center">
-  <img src="phpCalculatorVideo.gif" alt="PHP Calculator Demo" width="800" />
-</p>
+---
 
+## 🚀 Preview
+
+  <img 
+    src="phpCalculatorGif.gif" 
+  />
+
+Watch Full Demo on YouTube <a href="https://youtu.be/xv25Mg1D82U"> Here!
+</a>
 
 
