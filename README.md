@@ -2,7 +2,7 @@
 
 A basic calculator made with PHP. The calculator takes two numbers and an operator, then calculates and displays the result. It shows an error message if you try to divide by zero. 
 
-## ✅ Features
+## ✅ Features 
 * Add, subtract, multiply and divide numbers
 * Show an error message if dividing by zero
 * Accept only numbers as input
